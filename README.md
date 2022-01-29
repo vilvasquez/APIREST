@@ -1,13 +1,13 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/vilvasquez/">DESARROLLADO POR Vilvasquez</a>
 </p>
 
-## API DESARROLLADA EN LARAVEL
+## API DESARROLLADA EN PHP
 
- Esta API es Desarrollada como ejercicio con el motivo de mostrar como funciona sobre una app creada con datos falsos usando FAKER:
+ APIREST realizada en PHP , Es una Biblioteca Virtual ,donde se crea una base de datos para una biblioteca a la cual puedan hacérsele consultas a través de una API REST
 
 
 
